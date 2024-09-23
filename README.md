@@ -12,9 +12,7 @@ Elevate your LLM's cognitive abilities with structured thinking processes and re
 
 If you find this project useful, please consider giving it a star on GitHub! Your support helps to make this project more visible and encourages further development.
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/o1-meta-prompt.svg?style=social&label=Star)](https://github.com/yourusername/o1-meta-prompt)
-
-**[Click here to star the repo!](https://github.com/yourusername/o1-meta-prompt)**
+[![GitHub stars](https://img.shields.io/github/stars/hemangjoshi37a/o1-meta-prompt.svg?style=social&label=Star)](https://github.com/hemangjoshi37a/o1-meta-prompt)
 
 Your star is greatly appreciated! 🙏
 
