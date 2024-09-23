@@ -301,7 +301,13 @@ To maximize the benefits while mitigating risks, a carefully planned and ethical
 
 ## 🌟 Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=hemangjoshi37a/o1-meta-prompt&type=Date)](https://star-history.com/#hemangjoshi37a/o1-meta-prompt&Date)
+<a href="https://star-history.com/#hemangjoshi37a/o1-meta-prompt&Date">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=hemangjoshi37a/o1-meta-prompt&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=hemangjoshi37a/o1-meta-prompt&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=hemangjoshi37a/o1-meta-prompt&type=Date" />
+ </picture>
+</a>
 
 ## 🤝 Contributing
 
