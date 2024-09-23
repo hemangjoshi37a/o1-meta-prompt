@@ -8,6 +8,16 @@
 
 Elevate your LLM's cognitive abilities with structured thinking processes and recursive analysis. This project provides a comprehensive set of guidelines to emulate the advanced reasoning capabilities of models like OpenAI's o1.
 
+## ⭐ Support This Project
+
+If you find this project useful, please consider giving it a star on GitHub! Your support helps to make this project more visible and encourages further development.
+
+[![GitHub stars](https://img.shields.io/github/stars/yourusername/o1-meta-prompt.svg?style=social&label=Star)](https://github.com/yourusername/o1-meta-prompt)
+
+**[Click here to star the repo!](https://github.com/yourusername/o1-meta-prompt)**
+
+Your star is greatly appreciated! 🙏
+
 ## 📚 Table of Contents
 - [Features](#-features)
 - [Quick Start](#-quick-start)
@@ -288,7 +298,12 @@ To maximize the benefits while mitigating risks, a carefully planned and ethical
    A: No, this is a prompting technique and does not modify the underlying model.
 
 3. **Q: How can I contribute to this project?**
-   A: Check out our [Contributing](#-contributing) section below!
+   A: Contributions, issues, and feature requests are welcome!
+
+
+## 🌟 Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=hemangjoshi37a/o1-meta-prompt&type=Date)](https://star-history.com/#hemangjoshi37a/o1-meta-prompt&Date)
 
 ## 🤝 Contributing
 
@@ -301,11 +316,6 @@ This project is [MIT](https://opensource.org/licenses/MIT) licensed.
 ## ⚠️ Disclaimer
 
 This project aims to emulate some of the advanced reasoning capabilities seen in models like OpenAI's o1. It does not claim to replicate the exact functionality or performance of o1. Always use AI technologies responsibly and in compliance with applicable laws and ethical guidelines.
-
-## 🔗 Related Projects
-
-- [Awesome Prompting](https://github.com/example/awesome-prompting)
-- [LLM Best Practices](https://github.com/example/llm-best-practices)
 
 ---
 
